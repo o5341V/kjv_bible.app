@@ -10,5 +10,4 @@
 
  bible_folder = r"c:\\Users\\User\\Desktop\\USB\\Bible-kjv-master\\kjv_bible"  # Replace with the correct folder path
 
-*work in progress
 ## kjv_bible.app
