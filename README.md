@@ -1,13 +1,13 @@
 ## Instructions 
 
- Download the folder I provided 'kjv_bible' with .json books from https://github.com/o5341V/kjv_bible/tree/main/kjv_bible
+ Download the folder, 'kjv_bible' 
  
- specify below the filepath where you downloaded that to
+ (https://github.com/o5341V/kjv_bible/tree/main/kjv_bible)
  
- You can right click the folder and copy/paste into here
+ Replace folder path below
  
  Example: r'c:\User\Desktop\Bible-kjv-master\kjv_bible'
 
- bible_folder = r"c:\\Users\\User\\Desktop\\USB\\Bible-kjv-master\\kjv_bible"  # Replace with the correct folder path
+ bible_folder = r"your_folder_path"  # Replace with the correct folder path
 
 ## kjv_bible.app
