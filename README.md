@@ -1,5 +1,3 @@
-## kjv_bible.app
-
 ## Instructions 
 
  Download the folder I provided 'kjv_bible' with .json books from https://github.com/o5341V/kjv_bible/tree/main/kjv_bible
@@ -10,3 +8,4 @@
  bible_folder = r"c:\\Users\\User\\Desktop\\USB\\Bible-kjv-master\\kjv_bible"  # Replace with the correct folder path
 
 *work in progress
+## kjv_bible.app
