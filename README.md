@@ -1,4 +1,4 @@
-# kjv_bible.app
+## kjv_bible.app
 
 ## Instructions 
 
